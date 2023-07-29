@@ -5,6 +5,7 @@ return {
   -- available plugins can be found at https://github.com/AstroNvim/astrocommunity
 
   -- { import = "astrocommunity.colorscheme.onedarkpro-nvim" },
+  { import = "astrocommunity.media.vim-wakatime" },
   { import = "astrocommunity.completion.copilot-lua-cmp" },
   { import = "astrocommunity.test.neotest" },
   { import = "astrocommunity.search.nvim-hlslens" },
