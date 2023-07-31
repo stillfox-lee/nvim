@@ -3,6 +3,7 @@ return {
   opts = {
     options = {
       highlight_inactive_windows = true,
+      -- transparency = true,
     },
     highlights = {
       ErrorMsg = { italic = true, bold = true },
